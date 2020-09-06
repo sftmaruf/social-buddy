@@ -1,0 +1,17 @@
+#post-container{
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#card-tag{
+    width: 100%;
+    background-color: rgb(51, 51, 51);
+}
+.card-content{
+    color: rgb(255, 255, 255);
+}
+.button{
+    color: rgb(144, 202, 249);
+}
